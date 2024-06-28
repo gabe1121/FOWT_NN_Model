@@ -1,0 +1,9 @@
+mathtext.fontset : cm
+font.family : STIXGeneral
+lines.linewidth : 2
+axes.titlesize : 24
+axes.labelsize : 16
+xtick.labelsize : 16
+ytick.labelsize : 16
+lines.markersize : 10
+legend.fontsize : 16
